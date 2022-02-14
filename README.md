@@ -25,4 +25,6 @@
         ❗ :  برای ورود به یک دایرکتوری باید از cd استفاده کنیم
 ## محتویات اپ به صورت زیر است
 
+        ![list](https://user-images.githubusercontent.com/90989527/153830402-b8ea05dc-0bc5-4c59-9578-59a141ef6caf.PNG) 
+
         
