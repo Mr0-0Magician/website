@@ -24,4 +24,5 @@
         ❗ :  برای اینکه صفحه رو تمیز کرده باید بنویسیم clear
         ❗ :  برای ورود به یک دایرکتوری باید از cd استفاده کنیم
 ## محتویات اپ به صورت زیر است
-![list](https://user-images.githubusercontent.com/90989527/153830402-b8ea05dc-0bc5-4c59-9578-59a141ef6caf.PNG)
+![list](https://user-images.githubusercontent.com/90989527/153830402-b8ea05dc-0bc5-4c59-9578-59a141ef6caf.PNG) ![LIST 1](https://user-images.githubusercontent.com/90989527/153831523-5a3f1ab6-a23e-494f-8355-f2aee272022a.PNG)
+
