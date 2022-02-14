@@ -25,7 +25,11 @@
         ❗ :  برای ورود به یک دایرکتوری باید از cd استفاده کنیم
 ## محتویات اپ به صورت زیر است
 
+<<<<<<< HEAD
 ![list](https://user-images.githubusercontent.com/90989527/153830402-b8ea05dc-0bc5-4c59-9578-59a141ef6caf.PNG)
+=======
+![list](https://user-images.githubusercontent.com/90989527/153830402-b8ea05dc-0bc5-4c59-9578-59a141ef6caf.PNG)   
+>>>>>>> f6364bfe9027605cbe607087550262e66b3974bd
 
         📂 vscode
         📂 dist
