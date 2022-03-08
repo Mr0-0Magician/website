@@ -3,7 +3,7 @@ node_modules
 dist
 dist-ssr
 *.local
-amirreza.txt
+
 *file.*
 *.mp3
 !getting-started.mp3
