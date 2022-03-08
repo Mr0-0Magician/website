@@ -4,13 +4,10 @@ dist
 dist-ssr
 *.local
 amirreza.txt
-#---------------
-sub-file.?????
-
-*.mp3*
+*file.*
+*.mp3
 !getting-started.mp3
-
-*.mp4*
+*.mp4
 !installation.mp4
 
 
